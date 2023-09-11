@@ -61,7 +61,10 @@ After data collection (Surveys, Request to APIs, Experiments, Web Scrapping, etc
 •	We created a wordcloud for both positive and negative reviews to get an insight into the frequently occurring words in both types of reviews.
 
 •	Based on the wordclouds, we can infer that positive reviews have words such as "love," "great," and "easy," whereas negative reviews have words such as "disappointed," "problem," and "return."
+
 ![image](https://github.com/SomyanshAvasthi/Sentiment-Analysis-for-Market-Research/assets/107310391/a9cf4473-b807-498c-a9eb-4c37716d4ef3)
+
 ![image](https://github.com/SomyanshAvasthi/Sentiment-Analysis-for-Market-Research/assets/107310391/536b8678-4a0d-4146-b6ef-7055c664ea71)
+
 ![image](https://github.com/SomyanshAvasthi/Sentiment-Analysis-for-Market-Research/assets/107310391/fd401da6-6ecc-4510-a4f4-541161b193af)
 
