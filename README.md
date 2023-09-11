@@ -1,4 +1,4 @@
-# Importance of Sent. Analysis in Market Research 
+# Importance of Sentiment Analysis for Market Research 
 •	Sentiment analysis is a powerful tool for market research as it provides insights into customer attitudes, preferences,	and behavior. 
 
 •	It helps to identify trends, patterns, and areas of improvement, which can be used to make informed business decisions.
