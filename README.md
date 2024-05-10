@@ -1,11 +1,12 @@
-# Importance of Sentiment Analysis for Market Research 
+# Sentiment Analysis for Market Research using SVM Model 
+## Importance of Sentiment Analysis 
 •	Sentiment analysis is a powerful tool for market research as it provides insights into customer attitudes, preferences,	and behavior. 
 
 •	It helps to identify trends, patterns, and areas of improvement, which can be used to make informed business decisions.
 
-
 ![image](https://github.com/SomyanshAvasthi/Sentiment-Analysis-for-Market-Research/assets/107310391/d54df769-4652-4825-8db9-ff59f79858e8)
-# Methodology
+
+## Methodology
 After data collection (Surveys, Request to APIs, Experiments, Web Scrapping, etc )the following was the methodology adopted:-
 1.	Importing necessary libraries: We import the required libraries like pandas, NumPy, and scikit-learn to load and preprocess the dataset and perform sentiment analysis.
 2.	Loading the dataset: We load the dataset using pandas, which contains reviews of customers who have purchased Amazon Alexa products from Amazon.
@@ -27,7 +28,7 @@ After data collection (Surveys, Request to APIs, Experiments, Web Scrapping, etc
 18.	Evaluating the model: We evaluate the accuracy of the SVM model and generate a classification report. We also visualize the report using a heatmap.
 
 
-# Results
+## Results
 •	The sentiment analysis model built on this dataset shows promising results with an overall accuracy of 94%. 
 
 •	The precision and recall scores for positive and negative classes are also high, indicating that the model is able to classify the reviews with good accuracy.
@@ -36,7 +37,7 @@ After data collection (Surveys, Request to APIs, Experiments, Web Scrapping, etc
 
 •	Overall, the model built on this dataset can be used by companies to analyze customer reviews and improve their product accordingly.
 
-# Analysis Preferred to Validate Sent. Analysis
+## Analysis Preferred to Validate Sent. Analysis
 •	Human Annotation: Use humans to manually label a sample of text data and compare the results to the sentiment analysis output.
 
 •	Precision, Recall, and F1 Score: Use metrics to evaluate the model's accuracy and performance.
@@ -47,7 +48,7 @@ After data collection (Surveys, Request to APIs, Experiments, Web Scrapping, etc
 
 •	A/B Testing: Compare the output of two different sentiment analysis models or techniques on the same data.
 
-# Conclusions
+## Conclusions
 •	We performed sentiment analysis on Amazon Alexa product reviews using machine learning techniques.
 
 •	The dataset consisted of 3150 reviews, out of which 2578 were positive and 572 were negative.
